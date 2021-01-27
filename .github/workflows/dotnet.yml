@@ -22,4 +22,4 @@ jobs:
 
     - name: Build
       run: |
-        dotnet build --no-restore
+        dotnet build --no-restore /warnaserror
