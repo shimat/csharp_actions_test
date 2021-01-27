@@ -13,6 +13,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            var c = new Class1(1);
+
             Console.WriteLine("Hello World!");
         }
     }
